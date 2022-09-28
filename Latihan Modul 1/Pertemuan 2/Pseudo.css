@@ -1,0 +1,17 @@
+.Hello:link {
+  color: salmon;
+}
+
+.Hello:hover {
+  color: black;
+  font-family: arial;
+  font-size: 20px;
+}
+
+.Hello:active {
+  font-style: italic;
+}
+
+.Hello:visited {
+  color: blueviolet;
+}

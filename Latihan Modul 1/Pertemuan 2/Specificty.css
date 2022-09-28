@@ -1,0 +1,7 @@
+ul#Sarapan li {
+  color: red;
+}
+
+ul#Sarapan li.Favorit {
+  color: green;
+}
